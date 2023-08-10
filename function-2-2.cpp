@@ -1,6 +1,6 @@
-// function-2-2.cpp
-#include<iostream>
+// functions.cpp
 #include <cmath>
+#include "function-2-2.h"
 
 int bin_to_int(int binary_digits[], int number_of_digits) {
     int result = 0;
@@ -11,3 +11,6 @@ int bin_to_int(int binary_digits[], int number_of_digits) {
     
     return result;
 }
+
+
+

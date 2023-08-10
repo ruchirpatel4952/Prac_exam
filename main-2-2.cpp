@@ -1,6 +1,6 @@
 // main-2-2.cpp
 #include <iostream>
-#include "function-2-2.cpp" // Include the implementation of bin_to_int function
+#include "function-2-2.h"
 
 int main() {
     int binary_digits[] = {1, 0, 1, 0}; // Replace this with your binary array
@@ -16,3 +16,10 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+
