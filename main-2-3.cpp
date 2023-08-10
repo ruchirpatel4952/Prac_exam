@@ -1,5 +1,6 @@
 // main-2-3.cpp
 #include <iostream>
+#include "function-2-3.h"
 #include "function-2-3.cpp" // Include the implementations of the functions
 
 int main() {
