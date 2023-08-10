@@ -1,5 +1,4 @@
 // main-1-1.cpp
-#include "function-1-1.cpp" // Include the implementation of print_matrix function
 #include "function-1-1.h"
 
 int main() {
