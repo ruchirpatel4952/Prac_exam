@@ -1,7 +1,6 @@
 // main-2-3.cpp
 #include <iostream>
 #include "function-2-3.h"
-#include "function-2-3.cpp" // Include the implementations of the functions
 
 int main() {
     int arr[] = {1, 2, 3, 2, 1}; // Replace this with your array
